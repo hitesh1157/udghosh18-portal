@@ -1,0 +1,11 @@
+dev.bg.bg-checkout {
+    background: url(https://firebasestorage.googleapis.com/v0/b/udghosh18.appspot.com/o/background.png?alt=media&token=13f7c589-3fb9-44ec-8768-7426eaa54b67) no-repeat center / cover !important;
+}
+
+@media only print {
+    .subtask-generate {
+      width: auto;
+      height: auto;
+      overflow: visible;
+    }
+ }
